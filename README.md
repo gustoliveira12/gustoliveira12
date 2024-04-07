@@ -1,5 +1,3 @@
-<img align="center" alt="Coding" width="1000" height="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fac%2F5b%2F16%2Fac5b1609d86356d86f028b307f839fb7.gif">
-
 <h1 align="center">Howdy 👋, I'm Gustavo Oliveira</h1>
 <h3 align="center">A beginner frontend and game developer from Brazil</h3>
 
