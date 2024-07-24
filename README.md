@@ -27,4 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustoliveira12&" alt="gustoliveira12" /></p>
 
-![snake animation](https://github.com/<gustoliveira12>/<gustoliveira12>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/gustoliveira12/gustoliveira12/blob/output/github-contribution-grid-snake.svg)
+
